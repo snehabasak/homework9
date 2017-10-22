@@ -1,0 +1,54 @@
+.jumbotron{
+  background-position: center;
+  height:300px;
+  width:1050px;
+  padding:25px;
+  margin-right:10px;
+  margin-left: 10px;
+  background-image:url("../images/logo.jpg");
+}
+
+.top{
+ background-color: rgba(0,0,0,0.7);
+color:gold;
+height:50px;
+width:inherit;
+margin-right: 150px;
+}
+.middle{
+padding:15px;
+height:auto;
+width:100%;
+border-bottom:solid black 1px;
+}
+
+h3{
+text-align: justify;
+color:gold;
+font-family: 'Noto Serif', serif;
+}
+.invite{
+  border:1px solid gold;
+  background-color: rgba(0,0,0,0.7);
+  margin-right:250px;
+  width:850px;
+  padding:10px;
+
+}
+
+.fixed-top{
+  width:1050px;
+  margin-left: 150px;
+  margin-right:250px;
+  padding:10px;
+  background-color: rgb(0,0,0,0.7);
+}
+a{
+  color:gold;
+}
+.container{
+  background-image:url("..//images/nami.png");
+}
+.table{
+  font-family:'Play', sans-serif;
+}
